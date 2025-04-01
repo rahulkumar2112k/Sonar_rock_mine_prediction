@@ -18,7 +18,7 @@ This project predicts whether a given sonar signal corresponds to a rock or a mi
 
 The dataset used for this project is the **Sonar Dataset**, available at the following link:
 
-[Download Sonar Dataset]([http://archive.ics.uci.edu/ml/machine-learning-databases/00262/](https://drive.google.com/file/d/1f_dwGSN7QBDepWkkac4AuJDo2vFWoK2s/view?usp=sharing))
+[Download Sonar Dataset]([http://archive.ics.uci.edu/ml/machine-learning-databases/00262/](https://drive.google.com/file/d/1f_dwGSN7QBDepWkkac4AuJDo2vFWoK2s/view?usp=sharing)
 
 ## Steps to Run
 
